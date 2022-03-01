@@ -1,0 +1,6 @@
+FILE_SIZE           TIME_TAKEN
+150KB			12
+1000KB			4
+150KB			2
+1000KB			2
+2KB			0
